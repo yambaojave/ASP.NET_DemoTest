@@ -1,0 +1,12 @@
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.deps.json
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.dll
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\bin\Debug\net6.0\BuberBreakFast.Contracts.pdb
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.AssemblyReference.cache
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfoInputs.cache
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.AssemblyInfo.cs
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.dll
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\refint\BuberBreakFast.Contracts.dll
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\BuberBreakFast.Contracts.pdb
+C:\Users\yambaoja\Desktop\Projects\Test-Project\practice2\BuberBreakfast\BuberBreakFast.Contracts\obj\Debug\net6.0\ref\BuberBreakFast.Contracts.dll
